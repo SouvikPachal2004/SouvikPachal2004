@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://souvik-pachal-portfolio.netlify.app">
+  <a href="https://portfolio-souvik-pachal.netlify.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/SouvikPachal2004">
