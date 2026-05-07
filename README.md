@@ -101,6 +101,19 @@
 
 # 🚀 Featured Projects
 
+## 💼 NextStep AI Platform 
+-Built and deployed an AI-powered career development platform for students and job seekers
+-Implemented features like resume analysis, AI mock interviews, skill assessments, and personalized learning roadmaps
+-Developed smart job and course recommendation systems using Machine Learning for better career guidance
+-Created an admin dashboard to manage courses, assessments, and job postings efficiently
+-Focused on responsive UI/UX, performance optimization, and seamless user experience across devices
+
+Tech: HTML | CSS | JavaScript | Node.js | MongoDB | Python (ML)
+
+🔗 Live: https://nextstepai-platform.netlify.app
+
+--
+
 ## 📈 Retail Sales Forecasting
 - Built ML model using Random Forest for sales prediction  
 - Performed data preprocessing & feature engineering  
