@@ -11,7 +11,7 @@
 
 🎓 B.Tech in Computer Science Engineering (Data Science)  
 🏫 Techno Main Salt Lake (2022–2026)  
-📊 CGPA: 7.90  
+📊 CGPA: 8.04 
 
 💡 Passionate about:
 - Data Science & Machine Learning  
