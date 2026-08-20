@@ -101,6 +101,21 @@
 
 # 🚀 Featured Projects
 
+## 🎓 EduConnect – Virtual Classroom
+
+- Built and deployed a comprehensive virtual classroom platform for students, teachers, and administrators
+- Implemented features like live virtual classes, assignments, quizzes, course materials, and automated reminders
+- Developed a smart attendance system using camera recognition and geolocation verification with attendance analytics
+- Integrated Machine Learning for student performance prediction using attendance, assignment, and quiz scores
+- Created role-based dashboards for Students, Teachers, Admins, HODs, and Principals to manage academic activities efficiently
+- Added gamification features including badges, leaderboards, rewards, quests, and achievements to improve student engagement
+
+Tech: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Python (ML) | Chart.js
+
+🔗 Live: https://educonnect-2025.netlify.app/
+
+--
+
 ## 💼 NextStep AI Platform 
 - Built and deployed an AI-powered career development platform for students and job seekers
 - Implemented features like resume analysis, AI mock interviews, skill assessments, and personalized learning roadmaps
